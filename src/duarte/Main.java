@@ -7,5 +7,6 @@ public class Main {
         String name = "Jhon Duarte";
 
         System.out.println("Hello my name is " + name);
+        System.out.println("Hello " + name + " My name is Daniel");
     }
 }
